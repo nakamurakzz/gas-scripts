@@ -1,0 +1,10 @@
+{
+  "name": "gas-scripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nakamurakzz/gas-scripts.git",
+  "author": "nkmrkz <kazutaka.nakamura@ncdc.co.jp>",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
